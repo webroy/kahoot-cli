@@ -1,0 +1,536 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-er Set",
+    "hauptkategorie": "Wissenschaft",
+    "unterkategorie": "Programmierung",
+    "thema": "Mikrocontrollertechnik",
+    "schwierigkeitsgrad": "leicht",
+    "autor": "Fredy",
+    "datum": "2020-02-11"
+  },
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "Für was steht das Ackronym MCU?",
+      "level": 0, 
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Macro Computer Unit",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Micro Controller Unit",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Mega Computer Update",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Master Card Upload",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Welche Antwort beinhaltet richtige Phasen des SW-Engineerings?",
+      "level": 0, 
+      "nameFoto": "2.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Analyse, Marketing, Test",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Design, Implementierung, Fehlersuche",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Analyse, Implementierung, Test",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Sitzen, Denken, Programmieren",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Welches ist keine Programmiersprache?",
+      "level": 0, 
+      "nameFoto": "3.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "C",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "C#",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "C--",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "C++",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Wer unterstützt mich in der Fehlersuche?",
+      "level": 0, 
+      "nameFoto": "4.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Editor",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Project-Wizard",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Formatter",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Debugger",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Welchem Dezimalwert entspricht 0x51?",
+      "level": 0, 
+      "nameFoto": "5.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "51",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "6",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "21",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "81",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Welchem Dezimalwert entspricht die folgende Binärzahl 0110'0010?",
+      "level": 0, 
+      "nameFoto": "6.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "98",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "97",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "96",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "99",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Welche Operation macht keinen Sinn?",
+      "level": 0, 
+      "nameFoto": "7.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "x = x + 1",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "x+",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "x += 1",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "++x",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Welche Bedingung kann überhaupt mal true sein?",
+      "level": 0, 
+      "nameFoto": "8.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "if ((i == 0) && (i != 0))",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "while (i != i)",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "if ((i > 0) && (i < 3))",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "while (i = 0)",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Welches ist kein Datentyp?",
+      "level": 0, 
+      "nameFoto": "9.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Byte",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Double",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Long",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Strike",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "frage": "Welche Gruppe ergibt im direkten Zusammenhang einen Sinn?",
+      "level": 0, 
+      "nameFoto": "10.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "switch, break, case",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "do, while, perhaps",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "if, do, else",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "while, goto, break",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "frage": "Welchen Binärwert ergibt die Dezimalzahl 66?",
+      "level": 0, 
+      "nameFoto": "11.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "0010'0001",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "0001'0000",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "1000'0100",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "0100'0010",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "frage": "Bei welcher Seriellen Schnitstelle kommt das Wort <Baudrate> vor?",
+      "level": 0,
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byElio",
+      "antworten": [
+        {
+          "antwort1": "SPI",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "UART",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "I2C",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Onebit",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "frage": "Wie viele Bytes werden bei UART übertragen?",
+      "level": 0,
+      "nameFoto": "2.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byElio",
+      "antworten": [
+        {
+          "antwort1": "1 Byte",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "2 Bytes",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "3 Bytes",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "4 Bytes",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "frage": "Bei welcher Seriellen Schnitstelle wird ein Acknowledge Signal erwartet?",
+      "level": 0,
+      "nameFoto": "3.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byElio",
+      "antworten": [
+        {
+          "antwort1": "SPI",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "I2C",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "BUS",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "UART",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "frage": "Welche Serielle Schnitstelle bezeichnet die Anschlüsse mit <MSIO>, <MOSI>, <CS> und <SCK>?",
+      "level": 0,
+      "nameFoto": "4.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byElio",
+      "antworten": [
+        {
+          "antwort1": "SPI",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "I2C",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "IC",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "UART",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "frage": "Wie gross ist ein Integer?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Melvin Deubelbeiss",
+      "antworten": [
+        {
+          "antwort1": "1 Byte",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "2 Byte",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "4 Byte",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Ist unterschiedlich.",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "frage": "Welcher Datentyp ist der Beste, um Kommazahlen zu speichern?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Melvin Deubelbeiss",
+      "antworten": [
+        {
+          "antwort1": "int",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "long",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "float",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "double",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "frage": "Welcher Zahlenraum deckt ein Bit ab?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Melvin Deubelbeiss",
+      "antworten": [
+        {
+          "antwort1": "0-1",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "0-255",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "-128-127",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1-2",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "frage": "Welcher Datentyp kann die höchste Zahl speichern?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Melvin Deubelbeiss",
+      "antworten": [
+        {
+          "antwort1": "unsigned int",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "signed int",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "unsigned char",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "signed char",
+          "korrekt4": 0
+        }
+      ]
+    },
+	{
+	  "id": 20,
+      "frage": "Wo ist ein Semikolon nötig?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Noah Piqué",
+      "antworten": [
+        {
+          "antwort1": "Am Ende jeder Zeile",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Am Ende einer Zuweisung",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Am Ende einer Schlaufe",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Am Ende einer Bedingung",
+          "korrekt4": 0
+        }
+      ]
+    }
+
+	
+  ]
+}

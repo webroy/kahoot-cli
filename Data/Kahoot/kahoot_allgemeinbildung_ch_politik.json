@@ -1,0 +1,535 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-erSet",
+    "hauptkategorie": "Allgemeinbildung",
+    "unterkategorie": "CH-Politik",
+    "thema": "Dies und das",
+    "schwierigkeitsgrad": "mittel",
+    "autor": "Karin",
+    "datum": "2020-03-03"
+  },
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "In welchem Jahr wurde in der Schweiz die erste Bundesverfassung eingefuehrt?",
+      "level": 1, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "1291",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1789",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "1848",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "1945",
+          "korrekt4": 0
+        }
+      ]
+    },
+{
+      "id": 2,
+      "frage": "Seit 1919 hat die Wahlbeteiligung in der Schweiz ...?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "... stark zugenommen.",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "... keine signifikante Veraenderung erfahren.",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "... stark abgenommen.",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "... genau gleich geblieben.",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Bis heute gibt und gab es erst sieben Bundesraetinnen. Wer war die erste?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Ruth Dreifuss",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Elisabeth Kopp",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Micheline Calmy-Rey",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Ruth Metzler-Arnold",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Wie wird der Staenderat oft genannt?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Stoeckli",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Aegerti",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Kaesseli",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Heuhaufen",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "In welchem Jahr durften Schweizer Frauen erstmals bei Nationalratswahlen mitwaehlen?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "1919",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1959",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "1965",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1971",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Bei welcher Abstimmung auf Bundesebene im Jahr 1989 lag die Abstimmungs-Beteiligung bei rekordverdaechtigen 69.18%",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Fuer eine Schweiz ohne Armee",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Fuer Einführung der 40-Stunden-Woche",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Fuer Einfuehrung der Sommerzeit",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Fuer tiefere Arzneimittel-Preise",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Es gibt 26 Kantone als Gliedstaaten der Schweiz. Was ist kein Schweizer Kanton"?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Linth",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Glarus",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "St. Gallen",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Zuerich",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Die Schweiz ist ...",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "ein Fuerstentum",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "eine Diktatur",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "eine Demokratie",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "eine Monarchie",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Was ist ein wichtiges Markmal der Demokratie?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "es regiert ein Koenig",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "die Menschen koennen frei reisen",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "das Volk waehlt das Parlament",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "der Markt reguliert die Wirtschaft",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "frage": "In welchen Abstaenden waehlen die Stimmbuerger das Bundesparlament?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "alle 4 Jahre",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "alle 2 Jahre",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "alle 6 Jahre",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "jedes Jahr",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "frage": "Das Bundeshaus in Bern ist der Sitz ...?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "des Nationalmuseums",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "der Uni Bern",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "der SVP",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "der Bundesversammlung",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "frage": "Wer waehlt die sieben Bundesraete?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "die Stimmbuerger",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "der Aeltestenrat",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "vereinigte Bundesversammlung",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "ParteipraesidentInnen",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "frage": "Wo muss man in der Schweiz obligatorisch Mitglied sein?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "bei der Kirche",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "in einem Sportverein",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "in einer Krankenkasse",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "bei einer Partei",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "frage": "Wer ist Wilhelm Tell"?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "ein Anfuehrer im Bauernkrieg",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "ein bekannter Soeldner in fremden Diensten",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "eine geschichtliche Sagenfigur, die gegen fremde Herrscher kaempfte",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "ein adeliger Habsburger",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "frage": "In welchem Jahr wurde das Frauenstimmrecht eingefuehrt??",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "1969",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1988",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "1976",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1971",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "frage": "Welcher Kanton stellte bis anhin am meisten Bundesraete",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Aargau",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Zuerich",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Bern",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Tessin",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "frage": "In welchem Jahr wurde die erste Frau in den Bundesrat gewaehlt?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "1973",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1984",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "1995",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1969",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "frage": "Im ersten Weltkrieg musste Arthur Hoffmann als Bundesrat zuruecktreten. Weshalb?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Er war ein Spion",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Er wollte einen Friedensvertrag.",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Er war unbeliebt.",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Er wurde wahnsinnig.",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "frage": "Wie lange dauerte die laengste Amtszeit eines Bundesrates?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "16 Jahre",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "24 Jahre",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "32 Jahre",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "10 Jahre",
+          "korrekt4": 0
+        }
+      ]
+    },
+	{
+	  "id": 20,
+      "frage": "Wer ist die oberste politische Instanz in der Schweiz"?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Parlament",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Bundesrat",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Volk",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Nationalrat",
+          "korrekt4": 0
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,34 @@
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Hugo
+< 2> Datum:                                        So. 2020.03.01 um 06:26:46 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 1 Frage & 4 Antworten
+< 4> Kategorie:                                    Sport, Kampfsport/-kunst, Ninjutsu
+< 5> Schwierigkeitsgrad:                           9.Kyu
+< 6> Gesamtdauer für alle Antworten:               51598 ms
+< 7> Durchschnittliche Dauer aller Antworten:      5159 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  2752 / 9337 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        10 / 10 / 100.0%
+<10> richtig / falsch / Quote:                     8 / 2 / 80.0%
+<11> schneller als Durchschnitt / richtig / Quote: 5 / 4 / 80.0%
+<12> ID der falschen Antworten:                    3, 5
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          6, 9, 7, 1, 0, 3, 8, 4, 2, 5
+<14> Korrekt:     true, true, true, true, true, false, true, true, true, false
+<15> Antwort-Nr.: 2, 3, 4, 3, 3, 3, 2, 1, 2, 2
+<16> Level:       9, 9, 9, 0, 0, 9, 9, 9, 9, 9
+<17> Dauer:       9337, 5216, 4487, 6034, 4464, 3527, 2752, 4742, 5311, 5728
+***********************************************************************************************************************
+Es sind die folgenden 2 Fragen falsch beantwortet worden:
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welches ist keine Kamae (Kihon Gata)?
+Richtige Antwort: Kyusho no Kamae
+Ihre Antwort:     Shoshin no Kamae
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Bei welcher Taisabaki weichen wir 45° schraeg nach hinten aus?
+Richtige Antwort: Koho Sabaki Naname
+Ihre Antwort:     Koho Sabaki
+

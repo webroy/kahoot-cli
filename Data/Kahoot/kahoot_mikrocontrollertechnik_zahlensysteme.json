@@ -1,0 +1,404 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-er Set",
+    "hauptkategorie": "Wissenschaft",
+    "unterkategorie": "Programmierung",
+    "thema": "Mikrocontrollertechnik",
+    "schwierigkeitsgrad": "leicht",
+    "autor": "Sergio",
+    "datum": "2020-02-25"
+  },
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "Wie viele Zählschritte erhält man, mit einem 8-Bit System?",
+      "level": 0,
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "128",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "256",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "64",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1024",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Welche Binärzahl, steck hinter der Hexzahl 0xAB?",
+      "level": 0,
+      "nameFoto": "2.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "101010",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "111000",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "101011",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "101100",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Welche Dezimal Zahl, steckt hinter der Hex Zahl 0x6B?",
+      "level": 0,
+      "nameFoto": "3.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "111",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "106#",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "107",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "trölfedrüfzg",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Was ergibt 1100100 + 100 (binär)?",
+      "level": 0,
+      "nameFoto": "4.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "1100110",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "110110",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "100001",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "1101000",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Welchem Dezimalwert entspricht 0x51?",
+      "level": 0,
+      "nameFoto": "5.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "51",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "6",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "21",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "81",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Was ergibt 2F + 1F?",
+      "level": 0,
+      "nameFoto": "6.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "4E",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "00",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "5F",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "6A",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Was ergibt die dezimal Zahl 887 in binär?",
+      "level": 0,
+      "nameFoto": "7.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "10010110",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1101110111",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "1010101010",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "0101010110",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Was ergibt 1110 + 1001 (binär) in Dezimal?",
+      "level": 0,
+      "nameFoto": "8.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "99",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "007",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "23",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "zwölfedriisg",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Was ergibt 1010 * 110011 (binär)?",
+      "level": 0,
+      "nameFoto": "9.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "1111111111",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "10100111010",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "1",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "111111110",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "frage": "Was ergibt 110011000011 in Dezimal?",
+      "level": 0,
+      "nameFoto": "10.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "512",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "3267",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "36154",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "178",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "frage": "Was ergibt 3FE2 (hex) in Dezimal?",
+      "level": 0,
+      "nameFoto": "11.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "bySergio",
+      "antworten": [
+        {
+          "antwort1": "32145",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "4168",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "67189",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "16354",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "frage": "Welche Dezimalzahl entspricht der binaeren Zahl 1111?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Susanne Meyer",
+      "antworten": [
+        {
+          "antwort1": "15",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "255",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "4",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "12",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "frage": "Welche Dezimalzahl entspricht der Hexadezimalzahl A?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Susanne Meyer",
+      "antworten": [
+        {
+          "antwort1": "11",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "10",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "15",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "8",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "frage": "Welche Binaerzahl entspricht der Hexadezimalzahl 7F?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Susanne Meyer",
+      "antworten": [
+        {
+          "antwort1": "0011 1111",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "1110 1111",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "0111 1111",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "1111 1110",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "frage": "Welche Hexadezimalzahl entspricht der Binaerzahl 1111 1100?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Susanne Meyer",
+      "antworten": [
+        {
+          "antwort1": "CF",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "F8",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "F2",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "FC",
+          "korrekt4": 1
+        }
+      ]
+    }	
+  ]
+}

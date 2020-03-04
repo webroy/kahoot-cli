@@ -1,0 +1,56 @@
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Hans
+< 2> Datum:                                        So. 2020.03.01 um 06:14:15 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 32-er Set
+< 4> Kategorie:                                    Wissenschaft, Elektronik, Bauteile
+< 5> Schwierigkeitsgrad:                           leicht
+< 6> Gesamtdauer für alle Antworten:               42839 ms
+< 7> Durchschnittliche Dauer aller Antworten:      3059 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  1704 / 7583 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        14 / 14 / 100.0%
+<10> richtig / falsch / Quote:                     12 / 2 / 85.0%
+<11> schneller als Durchschnitt / richtig / Quote: 10 / 10 / 100.0%
+<12> ID der falschen Antworten:                    11, 13
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          1, 7, 6, 11, 9, 8, 13, 2, 10, 0, 5, 4, 3, 12
+<14> Korrekt:     true, true, true, false, true, true, false, true, true, true, true, true, true, true
+<15> Antwort-Nr.: 2, 4, 1, 4, 1, 4, 3, 2, 3, 4, 4, 1, 3, 2
+<16> Level:       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Dauer:       2857, 2191, 1863, 5615, 2783, 2359, 3751, 1862, 3689, 2079, 1704, 1903, 2600, 7583
+***********************************************************************************************************************
+Es sind die folgenden 2 Fragen falsch beantwortet worden:
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welcher Buchstabe entspricht keinem Bauteilanschluss eines Transistors?
+Richtige Antwort: D
+Ihre Antwort:     E
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Eigenschaft ist kein Auswahlkriterium bei einem Widerstand?
+Richtige Antwort: Strom
+Ihre Antwort:     Toleranz
+
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Hans
+< 2> Datum:                                        So. 2020.03.01 um 06:16:10 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 1 Frage, 4 Antworten und eine davon ist richtig
+< 4> Kategorie:                                    Technik, Elektronische Fertigungstechnik, Leiterplattenbestueckung
+< 5> Schwierigkeitsgrad:                           1
+< 6> Gesamtdauer für alle Antworten:               56915 ms
+< 7> Durchschnittliche Dauer aller Antworten:      5691 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  2447 / 10977 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        10 / 10 / 100.0%
+<10> richtig / falsch / Quote:                     10 / 0 / 100.0%
+<11> schneller als Durchschnitt / richtig / Quote: 7 / 7 / 100.0%
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          0, 7, 5, 6, 9, 8, 2, 1, 4, 3
+<14> Korrekt:     true, true, true, true, true, true, true, true, true, true
+<15> Antwort-Nr.: 3, 1, 3, 1, 3, 2, 2, 3, 2, 4
+<16> Level:       1, 0, 0, 0, 0, 0, 0, 1, 0, 0
+<17> Dauer:       4759, 10977, 9656, 4679, 5077, 4328, 6729, 5271, 2447, 2992

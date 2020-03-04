@@ -1,0 +1,273 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "1 Frage, 4 Antworten und eine davon ist richtig",
+    "hauptkategorie": "Technik",
+    "unterkategorie": "Elektronische Fertigungstechnik",
+    "thema": "Leiterplattenbestueckung",
+    "schwierigkeitsgrad": "1",
+    "autor": "Fredy",
+    "datum": "22-02-2020"
+  },
+  "fragen": [
+    {
+      "id": 0,
+      "frage": "Nach was fragen Sie, wenn sie ein Geraet suchen, um das Loetzinn zum schmelzen zu bringen?",
+      "level": 1, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Heissluftfoehn",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Schweissanlage",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Loetkolben",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Loettemperaturuebertragunsgeraet",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "frage": "Welche der aufgefuehrten Temperaturen kommt der optimalen Loettemperatur am naechsten?",
+      "level": 1, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "130",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "230",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "330",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "430",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Was ist kein Anzeichen fuer eine schlechte Loetstelle?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Jonas Botta",
+      "antworten": [
+        {
+          "antwort1": "bauchig",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "ranzig",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "lufteinschluesse",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "matt",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Was beinhaltet der Loetzinn?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Jonas Botta",
+      "antworten": [
+        {
+          "antwort1": "Flusmitel",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Flussmitel",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Flusmittel",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Flussmittel",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Mit welchem Wort wird ein flach aufliegender Widerstand beschrieben?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Jonas Botta",
+      "antworten": [
+        {
+          "antwort1": "vorgehen",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "plan",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "vorbereitung",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "absicht",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Welche Aussage ergibt im Zusammenhang mit einem Jumper keinen Sinn",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Jonas Botta",
+      "antworten": [
+        {
+          "antwort1": "Man kann einen Stromkreis unterbrechen",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Man kann kann zwischen unterschiedlichen Stromkreisen wählen",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Man kann den Strom in die Höhe springen lassen",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Man kann einen Stromkreis schliessen",
+          "korrekt4": 0
+        }
+      ]
+    },
+	      "id": 6,
+      "frage": "Welches Metall leitet Strom am besten?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byJonas L.",
+      "antworten": [
+        {
+          "antwort1": "Silber",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Gold",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Aluminium",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Kupfer",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Welches Material leitet Strom?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byJonas L.",
+      "antworten": [
+        {
+          "antwort1": "Kohle",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Keramik",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Oel",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Papier",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Welche Legierung besteht aus CuZn?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byJonas L.",
+      "antworten": [
+        {
+          "antwort1": "Bronze",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Messing",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Vitallium",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Chronium",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Aus welchem Material bestehen die meisten Kabel?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byJonas L.",
+      "antworten": [
+        {
+          "antwort1": "Glasfaser",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Gold",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Kupfer",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Aluminium",
+          "korrekt4": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-erSet",
+    "hauptkategorie": "Wissenschaft",
+    "unterkategorie": "Elektronik",
+    "thema": "Bauteile",
+    "schwierigkeitsgrad": "leicht",
+    "autor": "Fredy",
+    "datum": "2020-01-26"
+  },
+  "fragen": [
+    {
+      "id": 0,
+      "frage": "Welches der folgenden Verben wird kaum im Zusammenhang mit elektrischen Widerständen verwendet?",
+      "level": 1, 
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "begrenzen",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "bestücken",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "berechnen",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "bemängeln",
+          "korrekt4": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-erSet",
+    "hauptkategorie": "Allgemeinbildung",
+    "unterkategorie": "Diverses",
+    "thema": "Dies und das",
+    "schwierigkeitsgrad": "mittel",
+    "autor": "Karin",
+    "datum": "2020-03-03"
+  },
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "Was ist das Mainboard in einem Computer?",
+      "level": 1, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Hauptplatine eines Computers",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Hauptspeicher",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Prozessor",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Grafikkarte",
+          "korrekt4": 0
+        }
+      ]
+    },
+{
+      "id": 2,
+      "frage": "Wie wird das Wort richtig geschrieben?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Attrappe",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Atrappe",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Attrape",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Atrape",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "In welcher Metropolregion (Stadt und Umland) leben die meisten Menschen der Welt?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "New York",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Tokio",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "São Paulo",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Mexiko-Stadt",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Wie viel Liter Blut hat ein erwachsener Mensch?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "ca. 3 bis 4 Liter",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "ca. 5 bis 6 Liter",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "ca. 7 bis 8 Liter",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "ca. 9 bis 10 Liter",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Welches Ereignis gilt als Ausloeser des Ersten Weltkrieges?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Attentat von Wien",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Attentat von Berlin",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Attentat von Sarajevo",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Attentat von Budapest",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Am Karfreitag gedenken Christen ...",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "der Kreuzigung von Jesus",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "der Wunder von Jesus",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "der Auferstehung von Jesus",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "der Taufe von Jesus",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Welcher Maler schuf das Bild die "Nachtwache"?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Rembrandt",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Vincent van Gogh",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Franz Marc",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Claude Monet",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Wie heisst der Erfinder der Zahl "0"?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Sokrates",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Aryabhata",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Euklid",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Archimedes",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Der Begruender der Psychoanalyse war?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Sigmund Freud",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "John B. Watson",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Edward Thorndike",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Carl Gustav Jung",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "frage": "Wie heissen die beiden Gruender von Microsoft?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Steve Jobs und Steve Ballmer",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Bill Gates und Paul Allen",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Bill Gates und Steve Jobs",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Bill Gates und Steve Ballmer",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "frage": "Wie weit ist der Mond von der Erde entfernt?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "ca. 390'000 km",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "ca. 110'000 km",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "ca 30'000 km",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "ca. 490'000 km",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "frage": "Was ist ein Abakus?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Perlenzaehler",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Muschelsystem",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Muenztisch",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Rechenbrett",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "frage": "Welche Stadt liegt am suedlichsten?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Warschau",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Bruessel",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Prag",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Nuernberg",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "frage": "Wer gilt als Gruender des "Roten Kreuzes"?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Gerda Hasselfeldt",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Jean-Henry Dunant",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Christian Reuter",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Clemens Graf von Waldburg-Zeil",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "frage": "Von welchem Tier wird Kaschmirwolle gewonnen?",
+      "level": 0,
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Ziege",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Schaf",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Alpaka",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Kaninchen",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "frage": "Woher stammt die Kartoffelplanze urspruenglich?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Deutschland",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Suedamerika",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Afrika",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Spanien",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "frage": "Bei welcher Sportart braucht man keinen Ball?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Kabaddi",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Krocket",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Snooker",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Lacrosse",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "frage": "Was ist keine Getreideart?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Quinoa",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Hirse",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Amaranth",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Piment",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "frage": "Was bedeutet "I feel blue" übersetzt?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Ich habe zu viel getrunken.",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Ich bin krank.",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Ich fühle mich traurig.",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Ich habe Hunger.",
+          "korrekt4": 0
+        }
+      ]
+    },
+	{
+	  "id": 20,
+      "frage": "Wer schrieb das Drama "Wilhelm Tell"?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Karin",
+      "antworten": [
+        {
+          "antwort1": "Johann Wolfgang von Goethe",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Heinrich Heine",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Friedrich Nietzsche",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Friedrich Schiller",
+          "korrekt4": 1
+        }
+      ]
+    }
+
+	
+  ]
+}
+

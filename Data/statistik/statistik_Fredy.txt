@@ -1,0 +1,308 @@
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Fredy
+< 2> Datum:                                        Mo. 2020.03.02 um 08:55:48 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 32-er Set
+< 4> Kategorie:                                    Wissenschaft, Programmierung, Sprachen
+< 5> Schwierigkeitsgrad:                           leicht
+< 6> Gesamtdauer für alle Antworten:               15645 ms
+< 7> Durchschnittliche Dauer aller Antworten:      3911 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  2344 / 5086 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        4 / 4 / 100.0%
+<10> richtig / falsch / Quote:                     4 / 0 / 100.0%
+<11> schneller als Durchschnitt / richtig / Quote: 2 / 2 / 100.0%
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          2, 1, 0, 3
+<14> Korrekt:     true, true, true, true
+<15> Antwort-Nr.: 4, 2, 3, 2
+<16> Level:       0, 0, 0, 0
+<17> Dauer:       4911, 5086, 2344, 3304
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Fredy
+< 2> Datum:                                        Mo. 2020.03.02 um 09:01:32 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 32-er Set
+< 4> Kategorie:                                    Wissenschaft, Elektronik, Bauteile
+< 5> Schwierigkeitsgrad:                           leicht
+< 6> Gesamtdauer für alle Antworten:               47085 ms
+< 7> Durchschnittliche Dauer aller Antworten:      3363 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  1606 / 7110 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        14 / 14 / 100.0%
+<10> richtig / falsch / Quote:                     14 / 0 / 100.0%
+<11> schneller als Durchschnitt / richtig / Quote: 7 / 7 / 100.0%
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          7, 13, 1, 0, 4, 6, 11, 10, 5, 9, 8, 12, 3, 2
+<14> Korrekt:     true, true, true, true, true, true, true, true, true, true, true, true, true, true
+<15> Antwort-Nr.: 4, 4, 2, 4, 1, 1, 3, 3, 4, 1, 4, 2, 3, 2
+<16> Level:       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Dauer:       7110, 4176, 1830, 2095, 1608, 1606, 4808, 2831, 4464, 4472, 2360, 4303, 3575, 1847
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Fredy
+< 2> Datum:                                        Mo. 2020.03.02 um 09:19:04 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 32-er Set
+< 4> Kategorie:                                    Wissenschaft, Programmierung, Mikrocontrollertechnik
+< 5> Schwierigkeitsgrad:                           leicht
+< 6> Gesamtdauer für alle Antworten:               74125 ms
+< 7> Durchschnittliche Dauer aller Antworten:      3706 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  1806 / 6822 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        20 / 20 / 100.0%
+<10> richtig / falsch / Quote:                     20 / 0 / 100.0%
+<11> schneller als Durchschnitt / richtig / Quote: 14 / 14 / 100.0%
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          15, 8, 1, 10, 9, 18, 0, 12, 14, 7, 4, 6, 19, 16, 5, 17, 3, 13, 11, 2
+<14> Korrekt:     true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true
+<15> Antwort-Nr.: 4, 4, 3, 4, 1, 1, 2, 1, 1, 3, 4, 2, 2, 4, 1, 1, 4, 2, 2, 3
+<16> Level:       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Dauer:       6822, 3431, 4502, 3599, 3373, 2912, 1806, 6816, 3087, 3831, 3639, 3536, 2848, 3623, 3743, 2527, 2472, 5088, 2966, 3504
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistik:
+< 1> Anwender:                                     Fredy
+< 2> Datum:                                        Mo. 2020.03.02 um 09:22:13 nachm. MEZ
+< 3> Lernprinzip:                                  Kahoot, 32-er Set
+< 4> Kategorie:                                    Wissenschaft, Programmierung, Mikrocontrollertechnik
+< 5> Schwierigkeitsgrad:                           leicht
+< 6> Gesamtdauer für alle Antworten:               51578 ms
+< 7> Durchschnittliche Dauer aller Antworten:      2578 ms
+< 8> Dauer der schnellsten / langsamsten Antwort:  1558 / 3672 ms
+< 9> Anzahl Fragen gesamt / gelöst / Quote:        20 / 20 / 100.0%
+<10> richtig / falsch / Quote:                     0 / 20 / 0.0%
+<11> schneller als Durchschnitt / richtig / Quote: 9 / 0 / 0.0%
+<12> ID der falschen Antworten:                    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+***********************************************************************************************************************
+
+Roh-Daten der erfassten Antworten (Reihenfolge nach Fragestellung):
+<13> ID:          12, 14, 4, 9, 3, 6, 2, 18, 19, 5, 1, 10, 11, 13, 15, 7, 0, 8, 17, 16
+<14> Korrekt:     false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false
+<15> Antwort-Nr.: 4, 4, 1, 4, 1, 4, 4, 4, 4, 4, 4, 1, 4, 4, 1, 4, 4, 1, 4, 1
+<16> Level:       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Dauer:       3145, 2581, 2952, 2039, 3183, 2583, 1558, 2503, 2712, 1847, 3638, 3103, 3151, 3672, 2488, 2584, 1720, 2151, 1952, 2016
+***********************************************************************************************************************
+Es sind die folgenden 20 Fragen falsch beantwortet worden:
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Für was steht das Ackronym MCU?
+Richtige Antwort: Micro Controller Unit
+Ihre Antwort:     Master Card Upload
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Antwort beinhaltet richtige Phasen des SW-Engineerings?
+Richtige Antwort: Analyse, Implementierung, Test
+Ihre Antwort:     Sitzen, Denken, Programmieren
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welches ist keine Programmiersprache?
+Richtige Antwort: C--
+Ihre Antwort:     C++
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Wer unterstützt mich in der Fehlersuche?
+Richtige Antwort: Debugger
+Ihre Antwort:     Editor
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welchem Dezimalwert entspricht 0x51?
+Richtige Antwort: 81
+Ihre Antwort:     51
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welchem Dezimalwert entspricht die folgende Binärzahl 0110'0010?
+Richtige Antwort: 98
+Ihre Antwort:     99
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Operation macht keinen Sinn?
+Richtige Antwort: x+
+Ihre Antwort:     ++x
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Bedingung kann überhaupt mal true sein?
+Richtige Antwort: if ((i > 0) && (i < 3))
+Ihre Antwort:     while (i = 0)
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welches ist kein Datentyp?
+Richtige Antwort: Strike
+Ihre Antwort:     Byte
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Gruppe ergibt im direkten Zusammenhang einen Sinn?
+Richtige Antwort: switch, break, case
+Ihre Antwort:     while, goto, break
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welchen Binärwert ergibt die Dezimalzahl 66?
+Richtige Antwort: 0100'0010
+Ihre Antwort:     0010'0001
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Bei welcher Seriellen Schnitstelle kommt das Wort <Baudrate> vor?
+Richtige Antwort: UART
+Ihre Antwort:     Onebit
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Wie viele Bytes werden bei UART übertragen?
+Richtige Antwort: 1 Byte
+Ihre Antwort:     4 Bytes
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Bei welcher Seriellen Schnitstelle wird ein Acknowledge Signal erwartet?
+Richtige Antwort: I2C
+Ihre Antwort:     UART
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welche Serielle Schnitstelle bezeichnet die Anschlüsse mit <MSIO>, <MOSI>, <CS> und <SCK>?
+Richtige Antwort: SPI
+Ihre Antwort:     UART
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Wie gross ist ein Integer?
+Richtige Antwort: Ist unterschiedlich.
+Ihre Antwort:     1 Byte
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welcher Datentyp ist der Beste, um Kommazahlen zu speichern?
+Richtige Antwort: double
+Ihre Antwort:     int
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welcher Zahlenraum deckt ein Bit ab?
+Richtige Antwort: 0-1
+Ihre Antwort:     1-2
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Welcher Datentyp kann die höchste Zahl speichern?
+Richtige Antwort: unsigned int
+Ihre Antwort:     signed char
+-----------------------------------------------------------------------------------------------------------------------
+Frage:            Wo ist ein Semikolon nötig?
+Richtige Antwort: Am Ende einer Zuweisung
+Ihre Antwort:     Am Ende einer Bedingung
+
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistic:
+< 1> User:                                         Fredy
+< 2> Date:                                         Di. 2020.03.03 um 08:42:16 nachm. MEZ
+< 3> Principle:                                    Kahoot, 32-erSet
+< 4> Category:                                     Allgemeinbildung, CH-Politik, Dies und das
+< 5> Difficulty:                                   mittel
+< 6> Duration for all answers:                     193309 ms
+< 7> Average time for a question:                  9665 ms
+< 8> Duration for fastest / slowest answer:        5024 / 21572 ms
+< 9> Count of questions over all / solved / quote: 20 / 20 / 100.0%
+<10> right / wrong / quote:                        15 / 5 / 75.0%
+<11> Faster as average / right  / quote:           12 / 11 / 91.0%
+<12> ID from the wrong answer:                     9, 15, 17, 18, 19
+***********************************************************************************************************************
+
+Row data of the answers (random order):
+<13> ID:          2, 8, 17, 16, 15, 1, 0, 4, 12, 10, 13, 3, 9, 18, 5, 14, 19, 6, 11, 7
+<14> Correct:     true, true, false, true, false, true, true, true, true, true, true, true, false, false, true, true, false, true, true, true
+<15> Nr. of answer: 2, 3, 4, 2, 3, 3, 3, 4, 3, 4, 3, 1, 4, 2, 1, 4, 1, 1, 3, 3
+<16> Level:       0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Duration:    21572, 13822, 12648, 8599, 6159, 5574, 5024, 14383, 8087, 7408, 8902, 6072, 12087, 9872, 6103, 6927, 10400, 7559, 8535, 13576
+***********************************************************************************************************************
+The following 5 answers are wrong:
+-----------------------------------------------------------------------------------------------------------------------
+Question:         In welchen Abst�nden w�hlen die Stimmb�rger das Bundesparlament?
+Right answer: alle 4 Jahre
+Your answer:      jedes Jahr
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Welcher Kanton stellte bis anhin am meisten Bundesr�te
+Right answer: Z�rich
+Your answer:      Bern
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Im ersten Weltkrieg musste Arthur Hoffmann als Bundesrat zur�cktreten. Weshalb?
+Right answer: Er wollte einen Friedensvertrag.
+Your answer:      Er wurde wahnsinnig.
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wie lange dauerte die l�ngste Amtszeit eines Bundesrates?
+Right answer: 32 Jahre
+Your answer:      24 Jahre
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wer ist die oberste politische Instanz in der Schweiz
+Right answer: Volk
+Your answer:      Parlament
+
+***********************************************************************************************************************
+***********************************************************************************************************************
+Statistic:
+< 1> User:                                         Fredy
+< 2> Date:                                         Mi. 2020.03.04 um 07:15:40 nachm. MEZ
+< 3> Principle:                                    Kahoot, 32-erSet
+< 4> Category:                                     Allgemeinbildung, CH-Politik, Dies und das
+< 5> Difficulty:                                   mittel
+< 6> Duration for all answers:                     213430 ms
+< 7> Average time for a question:                  10671 ms
+< 8> Duration for fastest / slowest answer:        1686 / 130736 ms
+< 9> Count of questions over all / solved / quote: 20 / 20 / 100.0%
+<10> right / wrong / quote:                        4 / 16 / 20.0%
+<11> Faster as average / right  / quote:           17 / 3 / 17.0%
+<12> ID from the wrong answer:                     0, 1, 2, 4, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+***********************************************************************************************************************
+
+Row data of the answers (random order):
+<13> ID:          15, 2, 9, 17, 3, 0, 8, 18, 11, 5, 16, 6, 19, 14, 12, 1, 10, 13, 7, 4
+<14> Correct:     false, false, true, false, true, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false
+<15> Nr. of answer: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+<16> Level:       0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+<17> Duration:    9661, 11215, 130736, 4294, 2374, 2616, 17382, 3503, 2311, 3341, 1960, 2843, 1926, 2216, 2320, 4904, 1879, 4375, 1686, 1888
+***********************************************************************************************************************
+The following 16 answers are wrong:
+-----------------------------------------------------------------------------------------------------------------------
+Question:         In welchem Jahr wurde in der Schweiz die erste Bundesverfassung eingefuehrt?
+Right answer: 1848
+Your answer:      1291
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Seit 1919 hat die Wahlbeteiligung in der Schweiz ...?
+Right answer: ... stark abgenommen.
+Your answer:      ... stark zugenommen.
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Bis heute gibt und gab es erst sieben Bundesraetinnen. Wer war die erste?
+Right answer: Elisabeth Kopp
+Your answer:      Ruth Dreifuss
+-----------------------------------------------------------------------------------------------------------------------
+Question:         In welchem Jahr durften Schweizer Frauen erstmals bei Nationalratswahlen mitwaehlen?
+Right answer: 1971
+Your answer:      1919
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Die Schweiz ist ...
+Right answer: eine Demokratie
+Your answer:      ein Fuerstentum
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Was ist ein wichtiges Markmal der Demokratie?
+Right answer: das Volk waehlt das Parlament
+Your answer:      es regiert ein Koenig
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Das Bundeshaus in Bern ist der Sitz ...?
+Right answer: der Bundesversammlung
+Your answer:      des Nationalmuseums
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wer waehlt die sieben Bundesraete?
+Right answer: vereinigte Bundesversammlung
+Your answer:      die Stimmbuerger
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wo muss man in der Schweiz obligatorisch Mitglied sein?
+Right answer: in einer Krankenkasse
+Your answer:      bei der Kirche
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wer ist Wilhelm Tell
+Right answer: eine geschichtliche Sagenfigur, die gegen fremde Herrscher kaempfte
+Your answer:      ein Anfuehrer im Bauernkrieg
+-----------------------------------------------------------------------------------------------------------------------
+Question:         In welchem Jahr wurde das Frauenstimmrecht eingefuehrt??
+Right answer: 1971
+Your answer:      1969
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Welcher Kanton stellte bis anhin am meisten Bundesraete
+Right answer: Zuerich
+Your answer:      Aargau
+-----------------------------------------------------------------------------------------------------------------------
+Question:         In welchem Jahr wurde die erste Frau in den Bundesrat gewaehlt?
+Right answer: 1984
+Your answer:      1973
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Im ersten Weltkrieg musste Arthur Hoffmann als Bundesrat zuruecktreten. Weshalb?
+Right answer: Er wollte einen Friedensvertrag.
+Your answer:      Er war ein Spion
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wie lange dauerte die laengste Amtszeit eines Bundesrates?
+Right answer: 32 Jahre
+Your answer:      16 Jahre
+-----------------------------------------------------------------------------------------------------------------------
+Question:         Wer ist die oberste politische Instanz in der Schweiz
+Right answer: Volk
+Your answer:      Parlament
+

@@ -1,0 +1,378 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-er Set",
+    "hauptkategorie": "Wissenschaft",
+    "unterkategorie": "Elektronik",
+    "thema": "Bauteile",
+    "schwierigkeitsgrad": "leicht",
+    "autor": "Fredy",
+    "datum": "2020-01-26"
+  },
+  "fragen": [
+    {
+      "id": 0,
+      "frage": "Welches der folgenden Verben wird kaum im Zusammenhang mit elektrischen Widerständen verwendet?",
+      "level": 0, 
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "begrenzen",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "bestücken",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "berechnen",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "bemängeln",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "frage": "Welches Verkehrsschild entspricht am ehesten einer Diode?",
+      "level": 0, 
+      "nameFoto": "2.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Stop",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Einbahn",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Sackgasse",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Kein Vortritt",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Welcher Wert gehört nicht in die E-12er Widerstandsreihe?",
+      "level": 0, 
+      "nameFoto": "3.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "10",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "24",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "47",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "82",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Welche Farbe gehört nicht zum Widerstandsfarbcode?",
+      "level": 0, 
+      "nameFoto": "4.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Schwarz",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Violett",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Pink",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Grau",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Welches Verb wird im Zusammenhang mit dem Kondensator kaum verwendet",
+      "level": 0, 
+      "nameFoto": "5.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "tragen",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "glätten",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "laden",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "entladen",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Welcher Faktor hat keinen Einfluss auf die Bauform-Grösse eines Kondensators?",
+      "level": 0, 
+      "nameFoto": "6.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Kapazität",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Spannung",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Dielektrikum",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Frequenz",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Welche Buchstabenkombination gibt es im Zusammenhang mit Transistoren nicht?",
+      "level": 0, 
+      "nameFoto": "7.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "TEF",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "NPN",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "FET",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "PNP",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "Welches Bauteil ist nicht frequenzabhängig?",
+      "level": 0, 
+      "nameFoto": "8.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Kondensator",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Spule",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Transistor",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Widerstand",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Als was kann ein Transistor nicht eingesetzt werden?",
+      "level": 0, 
+      "nameFoto": "9.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Ein Transistor kann als Verstärker eingesetzt werden",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Ein Transistor kann als veränderbarer Widerstand eingesetzt werden",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Ein Tranistor kann als elektronischer Schalter eingesetzt werden",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Ein Transistor kann als Relais eingesetzt werden",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Welches Bauteil trifft man kaum bei Frequenzfilter an?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Diode",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Widerstand",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Kondensator",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Spule",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "frage": "Wie viele Anschlussbeinchen hat ein Transistor?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "1",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "2",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "3",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "4",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "frage": "Welcher Buchstabe entspricht keinem Bauteilanschluss eines Transistors?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "B",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "C",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "D",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "E",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "frage": "Welches Bauteil hat nicht 2 Bauteilanschluesse?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Kondensator",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Transistor",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Diode",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Spule",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "frage": "Welche Eigenschaft ist kein Auswahlkriterium bei einem Widerstand?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Temoeraturkoeffizient",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Leistung",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Toleranz",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Strom",
+          "korrekt4": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "32-er Set",
+    "hauptkategorie": "Wissenschaft",
+    "unterkategorie": "Programmierung",
+    "thema": "Sprachen",
+    "schwierigkeitsgrad": "leicht",
+    "autor": "Fredy",
+    "datum": "2020-01-26"
+  },
+  "fragen": [
+    {
+      "id": 1,
+      "frage": "Welche Insel ist identisch mit einer Programmiersprache?",
+      "level": 0, 
+      "nameFoto": "1.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Hawaii",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Cuba",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Java",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Malta",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Welcher Buchstabe steht für eine bekannte Programmiersprache?",
+      "level": 0, 
+      "nameFoto": "2.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "A",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "C",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "H",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Q",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Welcher Name entspricht einer Programmiersprache?",
+      "level": 0, 
+      "nameFoto": "3.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Jean",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Romain",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Pierre",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Pascal",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Welches der folgenden Tiere hat den gleichen Namen wie eine Programmiersprache?",
+      "level": 0, 
+      "nameFoto": "4.jpg",
+      "pfadFoto": "Fotos",
+      "copyright": "byFredy",
+      "antworten": [
+        {
+          "antwort1": "Salamander",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Phyton",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Caiman",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Alpaka",
+          "korrekt4": 0
+        }
+      ]
+    }
+  ]
+}

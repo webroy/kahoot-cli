@@ -1,0 +1,274 @@
+{
+  "info": {
+    "spiel": "Kahoot",
+    "typ": "1 Frage & 4 Antworten",
+    "hauptkategorie": "Sport",
+    "unterkategorie": "Kampfsport/-kunst",
+    "thema": "Ninjutsu",
+    "schwierigkeitsgrad": "9.Kyu",
+    "autor": "Fredy",
+    "datum": "01-03-2020"
+  },
+  "fragen": [
+    {
+      "id": 0,
+      "frage": "Welcher Text gehoert nicht zu Rei-ho (Gruss, bzw. Verabschiedungszeremonie)?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "SHIKIN HARAMITSU DAIKOMYO",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "O NEGAI SHIMASU",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "GAMBATTE KUDASAI",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "DOMO ARIGATO GOZAIMASHITA",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "frage": "Welches ist keine japanische Zahl von 1-10?",
+      "level": 0, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Ichi",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "San",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Migi",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Hachi",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "frage": "Welches ist kein zentraler Punkt bei der Distanz?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Richtige Distanz zum Gegner",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Richtige Distanz bei der Flucht",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Richtige Distanz beim Ausweichen",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Richtige Distanz beim Einsatz der Koerperwaffen",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "frage": "Welches ist keine Kamae (Kihon Gata)?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Ichimonji no Kamae",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Jumonji no Kamae",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Shoshin no Kamae",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Kyusho no Kamae",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "frage": "Welches ist keine Uebung der Fallschule?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Jodan Ukemi",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Yoko Kaiten",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Koho Kaiten",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Zempo Ukemi",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "frage": "Bei welcher Taisabaki weichen wir 45° schraeg nach hinten aus?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Koho Sabaki Naname",
+          "korrekt1": 1
+        },
+        {
+          "antwort2": "Koho Sabaki",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Zempo Sabaki",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Yoko Sabaki",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "frage": "Welche Koerperwaffe bezeichnet die Schwerthand (Schlag mit der Handkante)?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Fudo-ken",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Kiten-ken (Shuto)",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Boshi-ken",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Go Shitan-ken",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "frage": "In welche Kategorie gehoert Uke Waza?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Schlagtechnik",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Fallschule",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Gegenangriffs-Technik",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Block-Technik",
+          "korrekt4": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "frage": "Welchem der 5 Elemente entspricht Chi no kata aus Sanshin no Kata?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Wasser",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Erde",
+          "korrekt2": 1
+        },
+        {
+          "antwort3": "Luft",
+          "korrekt3": 0
+        },
+        {
+          "antwort4": "Feuer",
+          "korrekt4": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "frage": "Bei welcher Technik in Tori Kihon Gata greifen wir mit beiden Haenden zu?",
+      "level": 9, 
+      "nameFoto": "",
+      "pfadFoto": "",
+      "copyright": "Fredy",
+      "antworten": [
+        {
+          "antwort1": "Tori Momune Katate",
+          "korrekt1": 0
+        },
+        {
+          "antwort2": "Sode Tori",
+          "korrekt2": 0
+        },
+        {
+          "antwort3": "Tori Momune Ryote",
+          "korrekt3": 1
+        },
+        {
+          "antwort4": "Kote Tori",
+          "korrekt4": 0
+        }
+      ]
+    }
+  ]
+}
